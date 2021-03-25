@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "218051864-Assignment-2-Netflix-beta", "218051864-Assignment-2-Netflix-beta\218051864-Assignment-2-Netflix-beta.csproj", "{8BE84427-4B27-45F9-A47C-DD8EF21BF82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access", "Data Access\Data Access.csproj", "{7B240675-35CB-48D1-9A11-D44672B23459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Layer", "Business Layer\Business Layer.csproj", "{ED2617B9-1819-42E4-BDED-0701433B1532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE84427-4B27-45F9-A47C-DD8EF21BF82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE84427-4B27-45F9-A47C-DD8EF21BF82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE84427-4B27-45F9-A47C-DD8EF21BF82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE84427-4B27-45F9-A47C-DD8EF21BF82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B240675-35CB-48D1-9A11-D44672B23459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B240675-35CB-48D1-9A11-D44672B23459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B240675-35CB-48D1-9A11-D44672B23459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B240675-35CB-48D1-9A11-D44672B23459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2617B9-1819-42E4-BDED-0701433B1532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2617B9-1819-42E4-BDED-0701433B1532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2617B9-1819-42E4-BDED-0701433B1532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2617B9-1819-42E4-BDED-0701433B1532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7100C2-14AC-4B46-A1C9-338B3A854ADD}
+	EndGlobalSection
+EndGlobal
